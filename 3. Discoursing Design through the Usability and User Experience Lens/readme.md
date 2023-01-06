@@ -12,10 +12,9 @@ Please include your name and roll number at the top of the file and submit in th
 
 
 ## My Submission: 2021015_Ankit Kumar_DesignPrinciples.pdf    
-![image](C:\\Users\\kitkat\\Desktop\\1.png)
-
-![image](C:\\Users\\kitkat\\Desktop\\2.png)
-
+![1](https://user-images.githubusercontent.com/79627254/211087392-b70faa7d-96b1-4be4-89c8-76af05e4f9a4.png)  
+![2](https://user-images.githubusercontent.com/79627254/211087425-0c84f0e1-decc-4957-985c-22f23350d070.png)
+canva link: [click here](https://www.canva.com/design/DAFW6xfqUmk/u8sKkDt6EeUYM4FogbvaeQ/view?utm_content=DAFW6xfqUmk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### TA's response:
 > A great attempt! You can push yourself to recognise more problem areas and create solutions accordingly

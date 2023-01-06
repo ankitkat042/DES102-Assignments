@@ -8,11 +8,11 @@ Note:
 2. Please upload the file using the following convention: <RollNumber_Name_HeuristicEval.pdf>
 
 
-## My Submission: 2021015_Ankit Kumar_DoubleDiamond.pdf   
+## My Submission: 2021015_Ankit Kumar_HeuristicEval.pdf  
+glimpse:  
+![image](https://user-images.githubusercontent.com/79627254/211093306-b225f392-441a-427b-9a48-ea2a2fbebd70.png)
+![image](https://user-images.githubusercontent.com/79627254/211093360-ea186990-09d1-4153-80bc-8272d363e536.png)
 
-![2021015_Ankit Kumar_DoubleDiamond pdf (1920 × 1080 px)](https://user-images.githubusercontent.com/79627254/211088209-199d686b-65da-41db-8cab-f605ad4fda99.png)
-
-![2021015_Ankit Kumar_DoubleDiamond pdf (1920 × 1080 px) (1)](https://user-images.githubusercontent.com/79627254/211088221-b84f2c5a-2cb3-4316-86a7-417d49ee2dc5.png)
 
 ### canva link : [click here](https://www.canva.com/design/DAFW7OELt2E/3MXjQH0228elpISuMBP35A/view?utm_content=DAFW7OELt2E&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)  
 

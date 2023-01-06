@@ -1,4 +1,4 @@
-# 3. Discoursing Design through the Usability and User Experience Lens 
+# 4. Discoursing Design through the Usability and User Experience Lens 
 > marked:48/50
 ---
 Imagine that you want to design a product that helps you organize a trip. This might be for a business or vacation trip, to visit relatives halfway around the world, or for a bike ride on the weekend—whatever kind of trip you like. In addition to planning the route or booking tickets, the product may help to check visa requirements, arrange guided tours, investigate the facilities at a location, and so on.

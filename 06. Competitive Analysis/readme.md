@@ -1,17 +1,33 @@
 # 6. Competitive Analysis
-> marked: 50/50
+> marked: 98/100
 ---
-Conduct a heuristic evaluation of any online streaming platform (Netflix, Amazon Prime, Hotstar,Voot, etc.) using Nielsens 10 guidelines using the attached template. The assignment is an individual assignment. 
+Recommender system for tourism:
+• Draw upon a set of criteria to guide your investigation
+• Review three websites and take screenshots of pages you find interesting (design, content, or functionality)
+• Use the categories discussed to critique each website (positive or negative - features, content, and design)
 
-Note: 
-1. Please mention the name of the platform under evaluation.
-2. Please upload the file using the following convention: <RollNumber_Name_HeuristicEval.pdf>
+Objectives:
+• Develop skills to critically analyze competitor services
+
+Exercise:
+1) In your group:
+- Evaluate the following websites using the criteria discussed
+- Allow up to 15 minutes for each website (45 minutes)
 
 
-## My Submission: 2021015_Ankit Kumar_DoubleDiamond.pdf   
+
+2) Create a PDF with screenshots: 
+Discuss the top 6 most interesting findings :
+(3 positive, 3 negative)
 
 
-### canva link : [click here](https://www.canva.com/design/DAFW7OELt2E/3MXjQH0228elpISuMBP35A/view?utm_content=DAFW7OELt2E&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)  
+## My Submission: Group 29_competitive analysis.pdf 
+GLIMPSES:  
 
-### TA's response:
-> Great Job!
+![image](https://user-images.githubusercontent.com/79627254/211095383-c0f52a70-f7a9-4349-a70b-036f702c1ea5.png)  
+![image](https://user-images.githubusercontent.com/79627254/211095425-f154913a-5d64-4e4f-9f8b-6360f039ba17.png)  
+![image](https://user-images.githubusercontent.com/79627254/211095544-eb1fa4cb-a942-4071-97ef-ebc30f98a7a8.png)
+
+
+### canva link : [click here](https://www.canva.com/design/DAFW7HDddYs/MuMR2Xh_4Iqi_T9g6nbLig/view?utm_content=DAFW7HDddYs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)  
+

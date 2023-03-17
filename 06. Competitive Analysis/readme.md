@@ -31,3 +31,5 @@ GLIMPSES:
 
 ### canva link : [click here](https://www.canva.com/design/DAFW7HDddYs/MuMR2Xh_4Iqi_T9g6nbLig/view?utm_content=DAFW7HDddYs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)  
 
+<a href="https://www.canva.com/design/DAFW7HDddYs/MuMR2Xh_4Iqi_T9g6nbLig/view?utm_content=DAFW7HDddYs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Opens in new tab</a>
+

@@ -35,4 +35,4 @@ NOTE,
 
 >Miro Board Links  
 System : [here](https://miro.com/app/board/uXjVOFpSO34=/?share_link_id=41165116702)  
->Task : [here](https://miro.com/app/board/uXjVOFpeR_w=/?share_link_id=852180080588)
+>Task : [here](https://miro.com/app/board/uXjVOFpeR_w=/?share_link_id=852180080588) 

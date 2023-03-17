@@ -1,5 +1,5 @@
 # 14. Information Architecture
-[<img src="https://user-images.githubusercontent.com/79627254/226060873-16d4a78c-0ec2-4ade-8389-a52bafcd9e62.png" width="95"/>](#)
+[<img src="https://user-images.githubusercontent.com/79627254/226060873-16d4a78c-0ec2-4ade-8389-a52bafcd9e62.png" width="95"/>](#) 
 > marked: 90/100
 ---
 ### Objectives

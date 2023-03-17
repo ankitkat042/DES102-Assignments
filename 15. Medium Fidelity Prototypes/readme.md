@@ -48,3 +48,5 @@ Glimpse:
 ![image](https://user-images.githubusercontent.com/79627254/226006093-44cabb7e-381d-4ff6-8463-08edf2a25064.png)
 ![image](https://user-images.githubusercontent.com/79627254/226006863-2354a94f-d045-4f02-92e9-28e61f90ded3.png)
 
+> ## Miro Link - [here](https://miro.com/app/board/uXjVODOmzjY=/?share_link_id=596537779524) 
+

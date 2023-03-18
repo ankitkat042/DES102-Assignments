@@ -56,4 +56,11 @@ Our app, Astroonus, aims at eliminating the chaos created by not-so up to par in
 - [Harsh Kumar Pal](https://www.instagram.com/harshkumarpal_002/)
 - [Madhur Gupta](https://www.instagram.com/__madhur__gupta__/)
 - [Sarthak Gambhir](https://www.instagram.com/whatevah_man/)
+
+
+<!--
+  Title: ankit kumar iiitd
+  Description: ankit kumar hci project winter 22
+  Author: Ankit kumar / ankitkat/ ankitkat042
+  -->
  

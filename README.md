@@ -4,7 +4,7 @@
 &nbsp;&nbsp;        [<img src="https://user-images.githubusercontent.com/79627254/226126151-278c6dbd-30f2-45ef-845f-ff6607b89d1b.png" width="80" height = ""/>](https://www.canva.com/design/DAE6y2Hr7eU/01Hb5i9of0yVVoxhVdP-Rw/view?utm_content=DAE6y2Hr7eU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 
 
 Introduction To Human-Computer Interaction Assignments and Project Repo (DES102-IHCI) offered at IIIT Delhi.  
-|Course Instructor : [Dr. Indrani-De-Parker](https://www.idc.iitb.ac.in/people/phd/indrani-de-parker)|
+|Course Instructor : [Dr. Indrani De Parker](https://www.idc.iitb.ac.in/people/phd/indrani-de-parker)|
 |---|
 |TA : [Ishika Joshi](https://twitter.com/ishikaajoshii)|
  

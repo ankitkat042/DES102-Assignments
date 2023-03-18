@@ -4,7 +4,8 @@
 &nbsp;&nbsp;        [<img src="https://user-images.githubusercontent.com/79627254/226126151-278c6dbd-30f2-45ef-845f-ff6607b89d1b.png" width="80" height = ""/>](https://www.canva.com/design/DAE6y2Hr7eU/01Hb5i9of0yVVoxhVdP-Rw/view?utm_content=DAE6y2Hr7eU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 
 
 Introduction To Human-Computer Interaction Assignments and Project Repo (DES102-IHCI) offered at IIIT Delhi.
-[]: # (Ankit Kumar)
+<!--- Ankit kumar -->
+
 
 # Astroonus: An Astronomy App 
 <p align="center">
@@ -45,9 +46,9 @@ Our app, Astroonus, aims at eliminating the chaos created by not-so up to par in
 
 ## Team Members
 
-- Ankit Kumar
-- Ayush Sachan
-- Harsh Kumar Pal
-- Madhur Gupta
-- Sarthak Gambhir
+- [Ankit Kumar](https://www.instagram.com/ankitkat042/)
+- [Ayush Sachan](https://www.instagram.com/ayushsachan02/)
+- [Harsh Kumar Pal](https://www.instagram.com/harshkumarpal_002/)
+- [Madhur Gupta](https://www.instagram.com/__madhur__gupta__/)
+- [Sarthak Gambhir](https://www.instagram.com/whatevah_man/)
  

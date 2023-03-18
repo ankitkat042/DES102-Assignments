@@ -1,5 +1,6 @@
 # 17. FINAL SUBMISSION --- High Fidelity Prototype & User Evaluation
-> marked: 100/100
+[<img src="https://user-images.githubusercontent.com/79627254/226060873-16d4a78c-0ec2-4ade-8389-a52bafcd9e62.png" width="95"/>](#)
+> marked: 98/100
 ---
 📢 Last assignment - TO BE INCLUDED IN YOUR FINAL SUBMISSION 📢
 
@@ -79,9 +80,10 @@ Name FINAL SUBMISSION using the file name convention:
 
  ![image](https://user-images.githubusercontent.com/79627254/226041269-a2f9f366-6945-4b76-bc06-e00f951948ae.png)
 
-## Interactive Prototype - [HERE](https://www.figma.com/proto/szWw1TAiKRyx429Z5nkSvS/Astroonus_version_1.0.1?node-id=2-35&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A35&show-proto-sidebar=1)
+> ## Interactive Figma Prototype  - [HERE](https://www.figma.com/proto/szWw1TAiKRyx429Z5nkSvS/Astroonus_version_1.0.1?node-id=2-35&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A35&show-proto-sidebar=1)
 
-![image](https://user-images.githubusercontent.com/79627254/226043178-37c6ac91-848c-4ab7-864d-d90b936d322a.png)  ![image](https://user-images.githubusercontent.com/79627254/226043052-e2e126f6-9180-46ad-a713-adf74a099770.png)
+![image](https://user-images.githubusercontent.com/79627254/226043178-37c6ac91-848c-4ab7-864d-d90b936d322a.png)  ![image](https://user-images.githubusercontent.com/79627254/226043052-e2e126f6-9180-46ad-a713-adf74a099770.png)  
+
 
 ## Glimpse of Feedback  
 ![image](https://user-images.githubusercontent.com/79627254/226043951-d8c76e9d-8e57-4907-b321-14839b126886.png)

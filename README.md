@@ -3,7 +3,12 @@
 &nbsp;&nbsp;    [<img src="https://user-images.githubusercontent.com/79627254/226125770-a5f8c30a-44e6-4f43-b390-f5ef252914df.png" width="80" height = ""/>](https://www.figma.com/proto/szWw1TAiKRyx429Z5nkSvS/Astroonus_version_1.0.1?node-id=18-546&scaling=scale-down&page-id=0%3A1&starting-point-node-id=18%3A546&show-proto-sidebar=1) 
 &nbsp;&nbsp;        [<img src="https://user-images.githubusercontent.com/79627254/226126151-278c6dbd-30f2-45ef-845f-ff6607b89d1b.png" width="80" height = ""/>](https://www.canva.com/design/DAE6y2Hr7eU/01Hb5i9of0yVVoxhVdP-Rw/view?utm_content=DAE6y2Hr7eU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 
 
-Introduction To Human-Computer Interaction Assignments and Project Repo (DES102-IHCI) offered at IIIT Delhi.
+Introduction To Human-Computer Interaction Assignments and Project Repo (DES102-IHCI) offered at IIIT Delhi.  
+|Course Instructor : [Dr. Indrani-De-Parker](https://www.idc.iitb.ac.in/people/phd/indrani-de-parker)|
+|---|
+|TA : [Ishika Joshi](https://twitter.com/ishikaajoshii)|
+ 
+
 <!--- Ankit kumar -->
 
 
